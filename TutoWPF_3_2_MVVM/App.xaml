@@ -1,0 +1,9 @@
+﻿<Application x:Class="TutoWPF_3_2_MVVM.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TutoWPF_3_2_MVVM"
+             StartupUri="View/ShowUsers.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
